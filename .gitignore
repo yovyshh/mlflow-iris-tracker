@@ -3,5 +3,3 @@ mlruns/
 *.pyc
 .env
 venv/
-.gemini/
-*.log
